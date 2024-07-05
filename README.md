@@ -6,7 +6,9 @@ Bash script that uses Tor to change your IP at specified intervals.
 
 ## Installation
 
-**Using `git clone`**
+<!-- **Using `git clone`** -->
+
+## Using `git clone`
 
 1. Clone the repository:
 
